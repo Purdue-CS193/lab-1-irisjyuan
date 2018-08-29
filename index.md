@@ -1,8 +1,9 @@
 # Iris' First CS193 Lab
 
 Favorite Things About Purdue CS193:
-- am meeting cool peeps
-- using the iClickers :)
+- meeting cool peeps
+- using the iClickers
+- learning about relevant cs related skills
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
