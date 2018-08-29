@@ -1,7 +1,7 @@
 # Iris' First CS193 Lab
 
 Favorite Things About Purdue CS193:
-- meeting cool peeps
+- meeting cool peeps :)
 - using the iClickers
 - learning about relevant cs related skills
 
